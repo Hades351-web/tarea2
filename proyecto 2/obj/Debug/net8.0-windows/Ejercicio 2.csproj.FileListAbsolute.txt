@@ -1,0 +1,16 @@
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 2\bin\Debug\net8.0-windows\Ejercicio 2.exe
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 2\bin\Debug\net8.0-windows\Ejercicio 2.deps.json
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 2\bin\Debug\net8.0-windows\Ejercicio 2.runtimeconfig.json
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 2\bin\Debug\net8.0-windows\Ejercicio 2.dll
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 2\bin\Debug\net8.0-windows\Ejercicio 2.pdb
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 2\obj\Debug\net8.0-windows\proyecto_2.FormEje2.resources
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 2\obj\Debug\net8.0-windows\Ejercicio 2.csproj.GenerateResource.cache
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 2\obj\Debug\net8.0-windows\Ejercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 2\obj\Debug\net8.0-windows\Ejercicio 2.AssemblyInfoInputs.cache
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 2\obj\Debug\net8.0-windows\Ejercicio 2.AssemblyInfo.cs
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 2\obj\Debug\net8.0-windows\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 2\obj\Debug\net8.0-windows\Ejercicio 2.dll
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 2\obj\Debug\net8.0-windows\refint\Ejercicio 2.dll
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 2\obj\Debug\net8.0-windows\Ejercicio 2.pdb
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 2\obj\Debug\net8.0-windows\Ejercicio 2.genruntimeconfig.cache
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 2\obj\Debug\net8.0-windows\ref\Ejercicio 2.dll

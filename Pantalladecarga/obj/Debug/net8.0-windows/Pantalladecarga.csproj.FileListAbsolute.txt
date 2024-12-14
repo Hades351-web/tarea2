@@ -1,0 +1,7 @@
+C:\Users\Ryzen 5\source\repos\tarea2\Pantalladecarga\obj\Debug\net8.0-windows\Pantalladecarga.csproj.AssemblyReference.cache
+C:\Users\Ryzen 5\source\repos\tarea2\Pantalladecarga\obj\Debug\net8.0-windows\Pantalladecarga.FormCarga.resources
+C:\Users\Ryzen 5\source\repos\tarea2\Pantalladecarga\obj\Debug\net8.0-windows\Pantalladecarga.csproj.GenerateResource.cache
+C:\Users\Ryzen 5\source\repos\tarea2\Pantalladecarga\obj\Debug\net8.0-windows\Pantalladecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen 5\source\repos\tarea2\Pantalladecarga\obj\Debug\net8.0-windows\Pantalladecarga.AssemblyInfoInputs.cache
+C:\Users\Ryzen 5\source\repos\tarea2\Pantalladecarga\obj\Debug\net8.0-windows\Pantalladecarga.AssemblyInfo.cs
+C:\Users\Ryzen 5\source\repos\tarea2\Pantalladecarga\obj\Debug\net8.0-windows\Pantalladecarga.csproj.CoreCompileInputs.cache

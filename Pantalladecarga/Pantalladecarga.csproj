@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\proyecto 2\Ejercicio 2.csproj" />
+    <ProjectReference Include="..\proyecto 3\Ejercicio 1.csproj" />
+    <ProjectReference Include="..\tarea2\Ejercicio 3.csproj" />
+  </ItemGroup>
+
+</Project>

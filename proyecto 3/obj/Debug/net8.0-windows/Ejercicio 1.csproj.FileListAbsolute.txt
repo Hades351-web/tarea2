@@ -1,0 +1,7 @@
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 3\obj\Debug\net8.0-windows\proyecto_3.FormEje1.resources
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 3\obj\Debug\net8.0-windows\Ejercicio 1.csproj.GenerateResource.cache
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 3\obj\Debug\net8.0-windows\Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 3\obj\Debug\net8.0-windows\Ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 3\obj\Debug\net8.0-windows\Ejercicio 1.AssemblyInfo.cs
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 3\obj\Debug\net8.0-windows\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen 5\source\repos\tarea2\proyecto 3\obj\Debug\net8.0-windows\Ejercicio 1.csproj.AssemblyReference.cache
